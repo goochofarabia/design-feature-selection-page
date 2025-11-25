@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Selection Feature Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Feature Selection</h1>
+    <div class="feature-card-container">
+        <label><input type="checkbox"> CPU</label>
+        <label><input type="checkbox"> GPU</label>
+        <label><input type="checkbox"> RAM</label>
+        <label><input type="checkbox"> Storage</label>
+        <label><input type="checkbox"> Cooling</label>
+        <label><input type="checkbox"> RGB Lighting</label>
+    </div>
+
+</body>
+
+</html>
